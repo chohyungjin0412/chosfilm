@@ -69,3 +69,16 @@ li {
   background: gray;
   color: #fff;
 }
+
+img { 
+  width : 5%;
+  height: 5%; 
+ }
+
+h3 {
+  font-size: 35px;
+  margin: 0px;
+  text-align: center;
+  border-bottom:1px solid gray;
+  background-color: #4D6C8B;
+}
