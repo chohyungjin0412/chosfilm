@@ -1,0 +1,67 @@
+@font-face {
+	src: url("./IslandMoments-Regular.ttf");
+  font-family: "en_font";
+}
+
+#EN_font {
+  font-family: "en_font";
+}
+
+@font-face {
+	src: url("./BlackHanSans-Regular.ttf");
+  font-family: "kr_font";
+}
+
+#KR_font {
+  font-family: "kr_font";
+}
+
+body {
+  margin: 0px;
+  /*background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364); /*배경 그라데이션*/
+}
+h1 {
+  font-size: 115px;
+  margin: 0px;
+  text-align: center;
+  border-bottom:1px solid gray;
+  background-color: #4D6C8B;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+li {
+  list-style: none;
+}
+
+#menu1 {
+  background: #4D6C8B;
+}
+
+#menu1 ul{
+  width: 500px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+#menu1 ul li{
+  float: left;
+  width: 25%;
+  height: 100%;
+  line-height: 50px;
+  text-align: center;
+  background: #4D6C8B
+}
+
+#menu1 ul li a{
+  display: block;
+}
+
+#menu1 ul li a:hover {
+  font-size: 20px;
+  background: gray;
+  color: #fff;
+}
