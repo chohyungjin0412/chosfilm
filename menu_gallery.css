@@ -69,3 +69,13 @@ li {
   background: gray;
   color: #fff;
 }
+
+#main_menu {
+  font-size: 23px;
+}
+
+#side_menu_black_color_size {
+  color: black;
+  font-size: 20px;
+  padding: 10px;
+}
