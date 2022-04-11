@@ -1,5 +1,5 @@
 @font-face {
-	src: url("./Font_IslandMoments-Regular.ttf");
+	src: url("Font_IslandMoments-Regular.ttf");
   font-family: "en_font";
 }
 
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-	src: url("./Font_BlackHanSans-Regular.ttf");
+	src: url("Font_BlackHanSans-Regular.ttf");
   font-family: "kr_font";
 }
 
@@ -28,8 +28,8 @@ h1 {
   font-size: 115px;
   margin: 0px;
   text-align: center;
-  border-bottom:1px solid gray;
-  background-color: #4D6C8B;
+  border-bottom:1px solid #83bdf7;
+  background-color: #68a6e4;
 }
 
 a {
@@ -42,7 +42,7 @@ li {
 }
 
 #menu1 {
-  background: #4D6C8B;
+  background: #68a6e4;
 }
 
 #menu1 ul{
@@ -57,15 +57,22 @@ li {
   height: 100%;
   line-height: 50px;
   text-align: center;
-  background: #4D6C8B
+  background: #68a6e4;
 }
 
 #menu1 ul li a{
   display: block;
 }
 
-#menu1 ul li a:hover {
-  font-size: 20px;
-  background: gray;
+#menu1 ul li a:hover {          /*마우스 올렸을때 커지는거*/
+  font-size: 25px;
+  background: #4994de;
   color: #fff;
+  text-shadow: -1px 0 rgb(0, 0, 0), 0 1px rgb(0, 0, 0), 1px 0 rgb(0, 0, 0), 0 -1px rgb(0, 0, 0);
 }
+
+#main_menu_small {
+  font-size: 21px;
+  text-shadow: -1px 0 rgb(0, 0, 0), 0 1px rgb(0, 0, 0), 1px 0 rgb(0, 0, 0), 0 -1px rgb(0, 0, 0);
+}
+

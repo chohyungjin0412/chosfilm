@@ -1,5 +1,5 @@
 @font-face {
-	src: url("Font_IslandMoments-Regular.ttf");
+	src: url("../Font_IslandMoments-Regular.ttf");
   font-family: "en_font";
 }
 
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-	src: url("Font_BlackHanSans-Regular.ttf");
+	src: url("../Font_BlackHanSans-Regular.ttf");
   font-family: "kr_font";
 }
 
@@ -80,10 +80,4 @@ li {
 #main_menu_small {
     font-size: 21px;
     text-shadow: -1px 0 rgb(0, 0, 0), 0 1px rgb(0, 0, 0), 1px 0 rgb(0, 0, 0), 0 -1px rgb(0, 0, 0);
-}
-
-#side_menu_black_color_size {
-  color: black;
-  font-size: 20px;
-  padding: 5px;
 }
