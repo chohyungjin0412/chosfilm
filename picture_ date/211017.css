@@ -81,3 +81,12 @@ li {
     font-size: 21px;
     text-shadow: -1px 0 rgb(0, 0, 0), 0 1px rgb(0, 0, 0), 1px 0 rgb(0, 0, 0), 0 -1px rgb(0, 0, 0);
 }
+
+img {
+    width: 30%;
+    height: 30%;
+}
+
+#picture_margin {
+    padding: 3px;
+}
