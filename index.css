@@ -76,3 +76,28 @@ li {
   text-shadow: -1px 0 rgb(0, 0, 0), 0 1px rgb(0, 0, 0), 1px 0 rgb(0, 0, 0), 0 -1px rgb(0, 0, 0);
 }
 
+img { 
+  width : 3%;
+  height: 3%; 
+ }
+
+h3 {
+  font-size: 35px;
+  margin: 0px;
+  text-align: center;
+  border-bottom:1px solid gray;
+  background-color: #4D6C8B;
+}
+
+#cho07_film {
+  font-size: 40px;
+  color: aquamarine;
+}
+
+.bigname {
+  text-align : center;
+}
+
+#insta.logo {
+  right: 10px;
+}
