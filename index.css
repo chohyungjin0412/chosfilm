@@ -87,3 +87,11 @@ h3 {
   font-size: 40px;
   color: aquamarine;
 }
+
+.bigname {
+  text-align : center;
+}
+
+#insta.logo {
+  right: 10px;
+}
